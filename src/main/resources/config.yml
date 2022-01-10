@@ -1,0 +1,22 @@
+guis:
+  servers:
+    title: 'Seleziona un gioco'
+    size: 27
+    items:
+      survival:
+        name: '§#4287f5Survival'
+        material: GRASS_BLOCK
+        lore:
+          - 'Clicca per entrare!'
+        unbreakable: true
+        enchanted: false
+        flags: true
+join-items:
+  selector:
+    name: 'Seleziona un gioco'
+    material: COMPASS
+    lore:
+      - 'Clicca per scegliere!'
+    unbreakable: true
+    enchanted: false
+    flags: true
